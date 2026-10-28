@@ -5,8 +5,9 @@ A Google Sheets project designed to organize tasks, track deadlines, identify ov
 ## Open the Project
 
 -  **Google Sheets version (best for interactive review):** [Open the live spreadsheet](https://docs.google.com/spreadsheets/d/1MgU8ODBGBDN3iaLGT1GVZZedIRFO47eg7gOhNrazJfE/edit?usp=sharing)
-- PDF Portfolio Report *(coming soon)*
-- Excel Workbook *(coming soon)*
+- **PDF portfolio report:** [View or download the PDF]https://github.com/alexusgreggstylist-lgtm/Project-Task-Management-Tracker/blob/main/Project%20%26%20Task%20Management%20Tracker.pdf
+- **Excel workbook:** [View or download the Excel workbook]
+
 
 ## Project Features
 
