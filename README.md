@@ -4,7 +4,7 @@ A Google Sheets project designed to organize tasks, track deadlines, identify ov
 
 ## Open the Project
 
-- [Open the Google Sheets Version]https://docs.google.com/spreadsheets/d/1MgU8ODBGBDN3iaLGT1GVZZedIRFO47eg7gOhNrazJfE/edit?usp=sharing
+- Google Sheets Version https://docs.google.com/spreadsheets/d/1MgU8ODBGBDN3iaLGT1GVZZedIRFO47eg7gOhNrazJfE/edit?usp=sharing
 - PDF Portfolio Report *(coming soon)*
 - Excel Workbook *(coming soon)*
 
